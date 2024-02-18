@@ -1,4 +1,4 @@
-package example;
+package example.construct;
 
 public class ConstructMain1 {
     public static void main(String[] args) {

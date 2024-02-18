@@ -1,4 +1,4 @@
-package example;
+package example.operation;
 
 public class OperationEx2 {
 

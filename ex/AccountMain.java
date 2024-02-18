@@ -1,4 +1,4 @@
-package example;
+package example.ex;
 
 public class AccountMain {
 

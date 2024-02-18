@@ -1,4 +1,4 @@
-package example;
+package example.forwhile;
 
 public class ForWhEx5 {
 

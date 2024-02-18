@@ -1,4 +1,4 @@
-package example;
+package example.method;
 
 public class MethodEx1 {
     public static void main(String[] args) {

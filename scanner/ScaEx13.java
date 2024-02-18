@@ -1,4 +1,4 @@
-package example;
+package example.scanner;
 
 import jdk.jshell.spi.SPIResolutionException;
 

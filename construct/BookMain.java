@@ -1,6 +1,4 @@
-package example;
-
-import javax.crypto.SealedObject;
+package example.construct;
 
 public class BookMain {
 

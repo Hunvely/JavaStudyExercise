@@ -1,4 +1,4 @@
-package example;
+package example.ifex;
 
 public class IfEx2 {
 

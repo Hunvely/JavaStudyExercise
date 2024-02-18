@@ -1,4 +1,4 @@
-package example;
+package example.method;
 
 public class MemberInit {
     String name;

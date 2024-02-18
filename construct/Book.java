@@ -1,4 +1,4 @@
-package example;
+package example.construct;
 
 public class Book {
     String titie;

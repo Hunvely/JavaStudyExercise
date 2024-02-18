@@ -1,4 +1,4 @@
-package example;
+package example.classex;
 
 public class ClaEx1 {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package example;
+package example.classex;
 
 public class Student {
 

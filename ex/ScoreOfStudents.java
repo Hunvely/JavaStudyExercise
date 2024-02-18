@@ -1,4 +1,4 @@
-package example;
+package example.ex;
 import java.util.Scanner;
 
 public class ScoreOfStudents {
