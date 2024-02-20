@@ -9,9 +9,9 @@ public class JavaMemoryMain {
         System.out.println("main end");
     }
 
-    static void method1(int mi) {
+    static void method1(int m1) {
         System.out.println("method1 start");
-        int cal = mi * 2;
+        int cal = m1 * 2;
         method2(cal);
         System.out.println("method1 end");
     }
